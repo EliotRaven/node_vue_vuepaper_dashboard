@@ -1,0 +1,12 @@
+/*      date range picker        */
+.date-picker {
+  position: absolute;
+  top: -25px;
+  right: 24px;
+  padding: 5px;
+  background: #f4f3ef;
+
+  .el-date-editor .el-range-separator {
+    z-index: 999;
+  }
+}
