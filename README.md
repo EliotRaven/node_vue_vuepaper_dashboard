@@ -6,4 +6,4 @@ cd ./server npm i && npm run
 
 new terminal 
 
-cd ./vue-paper-dashboard npm run dev
+cd ./vue-paper-dashboard npm i && npm run dev
