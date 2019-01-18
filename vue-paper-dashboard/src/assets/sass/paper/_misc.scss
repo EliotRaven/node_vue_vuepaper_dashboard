@@ -1,4 +1,10 @@
 /*     General overwrite     */
+body, html, .app, #login {
+  min-height: 100vh;
+  height: auto !important;
+  height: 100%;
+}
+
 body {
   color: $font-color;
   font-size: $font-size-base;
